@@ -122,7 +122,7 @@ body {
 		<form action="./update" method="post">
 			<table>
 				<tr>
-					<td>Id</td>
+					<td>Enter Id</td>
 					<td><input type="text" name="id"></td>
 				</tr>
 				<tr>
